@@ -38,7 +38,7 @@ src/
 ## ▶️ How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/book-finder.git
+   git clone (https://github.com/20D21A0468/book-finder)
    cd book-finder
    
 npm install
