@@ -24,3 +24,24 @@ This app was built as part of a take-home challenge to demonstrate skills in **R
 ---
 
 ## 📂 Project Structure
+src/
+├── App.jsx # Main component with search + state
+├── components/
+│ └── BookCard.jsx # Displays individual book details
+├── main.jsx # React entry point
+└── index.css # Tailwind setup
+
+
+
+---
+
+## ▶️ How to Run Locally
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/<your-username>/book-finder.git
+   cd book-finder
+   
+npm install
+npm run dev
+
+
